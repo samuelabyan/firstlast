@@ -1,5 +1,5 @@
 # Word Game
-A fast-paced, competitive word game designed for team play. Challenge your vocabulary and quick thinking by coming up with words based on specific starting and ending letters before the timer runs out.
+A fast-paced, competitive word game designed for team play. Challenge your vocabulary and quick thinking by coming up with words based on specific starting and ending letters before the timer runs out: [Play now](https://samuelabyan.github.io/firstlast/)
 
 **Multi-language Support**: Play in English, Armenian, or Russian.
 
